@@ -1,1 +1,6 @@
-asdf
+- https://www.touchtapplay.com/save-real-life-locations-from-critters-in-critters-inc-for-iphone/
+- https://twitter.com/explorence?lang=en
+- https://venturebeat.com/2012/08/01/mike-suprovici-explorence-interview/
+- https://twitter.com/Kamcord/status/358225969582059521
+- https://www.metacritic.com/game/ios/critters-inc/details
+- scobelizer https://www.youtube.com/watch?v=3-mdcn_YM6U
