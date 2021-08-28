@@ -33,7 +33,7 @@ Dash on Android was the starting point for our GPS-based games. It was the first
 #### Live demo screen caps
 
 <p float="left">
-  <img src="./links/scobelizer_screencaps/DASH_demo_01_homescreen.png	" width="128" />
+  <img src="./links/scobelizer_screencaps/DASH_demo_01_homescreen.png" width="128" />
   <img src="./links/scobelizer_screencaps/DASH_demo_02_challengedetails.png" width="128" /> 
   <img src="./links/scobelizer_screencaps/DASH_demo_03_import.png" width="128" />
     <img src="./links/scobelizer_screencaps/DASH_demo_04_gps.png" width="128" />
