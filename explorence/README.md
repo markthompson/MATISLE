@@ -16,7 +16,7 @@ We started with Android early on (2011) because we believed it was gonna breakou
 
 ## DASH! - 2010 (Android)
 
-DASH! on Android was the starting point for Explorence's GPS-based games, and was the first iteration of the Dash series of titles.  If the UI looks bad it's because I made it, and we didn't have a designer yet :) Also, most Android apps looked bad compared to iOS apps at this time. and can be seen here: [DASH demo with the Scobelizer](https://www.youtube.com/watch?v=3-mdcn_YM6U) 
+DASH! on Android was the starting point for Explorence's GPS-based games, and was the first iteration of the Dash series of titles.  If the UI looks bad it's because I made it, and we didn't have a designer yet :) Also, most Android apps looked bad compared to iOS apps at this time. and can be seen here: [DASH! demo with the Scobelizer](https://www.youtube.com/watch?v=3-mdcn_YM6U) 
 
 #### Screencaps
 
@@ -27,7 +27,7 @@ DASH! on Android was the starting point for Explorence's GPS-based games, and wa
     <img src="./links/scobelizer_screencaps/DASH_mapview.png" width="128" />
 </p>
 
-#### Live demo screen caps scobelizer interview
+#### Live demo screen caps from Scobelizer interview
 
 <p float="left">
   <img src="./links/scobelizer_screencaps/DASH_demo_01_homescreen.png" width="128" />
@@ -39,19 +39,22 @@ DASH! on Android was the starting point for Explorence's GPS-based games, and wa
     <img src="./links/scobelizer_screencaps/DASH_demo_07_sharing.png" width="128" />
 </p>
 
-A core feature of DASH! was using GPS to create "challenges", and then allow the user to share a GPS track with friends. To get the GPS tracking off the ground, we used the open source Android project [MyTracks](https://en.wikipedia.org/wiki/MyTracks). The GPS data was stored in the GPX format locally on the Android device, and then shared to our server.
+A core feature of DASH! was using GPS to create "challenges", and then allow the user to share a GPS track with friends. To get the GPS tracking off the ground, we pretty much hacked the open source Android project [MyTracks](https://en.wikipedia.org/wiki/MyTracks). The GPS data was stored in the GPX format locally on the Android device, and then shared to our server.
 ## StreetDash - 2011 (Android)
 
-The second iteration of DASH! was StreetDash. It had a much better UI due to the fact we brought on an artist to help with UI. This app was never released due to our transition to iOS. 
+The second iteration of DASH! was StreetDash. It had a much better UI due to the fact we brought on an artist to help with UI. (This may have been released on the Google Play Store but I can't remember, if it was released, it wasn't live very long).
 
-#### Mockups
+#### Mockup and flow
+
 <p float="left">
   <img src="./Dash/StreetDash/streetdash_flow.png" width="512" />
 </p>
 
-#### Designer screenshots
+#### App screenshots
 
-WIP
+<p float="left">
+  <img src="./Dash/StreetDash/streetdash_flow.png" width="512" />
+</p> 
 ## BullDash, TorchDash, DemonDash - 2012 (iOS)
 
 WIP
@@ -62,5 +65,5 @@ WIP
 
 ## DemonDash
  
-
+WIP
 
