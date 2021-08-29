@@ -1,11 +1,8 @@
 # Explorence
 
-The vision of Explorence was to "bring the video game outside". At this moment in time, GPS-based apps were getting a lot of attention from the press and investors. I had been tinkering with Android for about a year, and then started helping out Explorence late 2010. In early 2011, I was invited to join as co-founder. 
+The vision of Explorence was to "bring the video game outside". At this moment in time, GPS-based apps were getting a lot of attention from the press and investors. I had been tinkering with Android for about a year before helping out Explorence with Android late 2010. In early 2011, I was invited to join as co-founder. 
 
-We started on Android early on (2011) because we believed it was gonna breakout. We shifted to iOS due to simple forces: Android was still way behind iOS technology wise, more importantly, iOS owned the mobile startup realm at this moment in time.
-
-
-## Titles
+We started with Android early on (2011) because we believed it was gonna breakout. We shifted to iOS due to simple forces: Android was still way behind iOS technology wise, more importantly, iOS owned the mobile startup realm at this moment in time.
 
 ```
 ├── CrittersInc     // an iOS-only title released in 2013
@@ -17,9 +14,9 @@ We started on Android early on (2011) because we believed it was gonna breakout.
 └── links
 ```
 
-### Dash 2010 (Android)
+## DASH! - 2010 (Android)
 
-Dash on Android was the starting point for our GPS-based games. It was the first iteration of the Dash series of titles and can be seen here: [DASH demo with the Scobelizer](https://www.youtube.com/watch?v=3-mdcn_YM6U) If the UI looks bad, it's because I made it and we didn't have a designer yet :) Also, most Android apps looked bad compared to iOS apps at this time.
+DASH! on Android was the starting point for Explorence's GPS-based games, and was the first iteration of the Dash series of titles.  If the UI looks bad it's because I made it, and we didn't have a designer yet :) Also, most Android apps looked bad compared to iOS apps at this time. and can be seen here: [DASH demo with the Scobelizer](https://www.youtube.com/watch?v=3-mdcn_YM6U) 
 
 #### Screencaps
 
@@ -30,7 +27,7 @@ Dash on Android was the starting point for our GPS-based games. It was the first
     <img src="./links/scobelizer_screencaps/DASH_mapview.png" width="128" />
 </p>
 
-#### Live demo screen caps
+#### Live demo screen caps scobelizer interview
 
 <p float="left">
   <img src="./links/scobelizer_screencaps/DASH_demo_01_homescreen.png" width="128" />
@@ -40,16 +37,30 @@ Dash on Android was the starting point for our GPS-based games. It was the first
     <img src="./links/scobelizer_screencaps/DASH_demo_05_start.png" width="128" />
     <img src="./links/scobelizer_screencaps/DASH_demo_06_finish.png" width="128" />
     <img src="./links/scobelizer_screencaps/DASH_demo_07_sharing.png" width="128" />
-
-
 </p>
 
+A core feature of DASH! was using GPS to create "challenges", and then allow the user to share a GPS track with friends. To get the GPS tracking off the ground, we used the open source Android project [MyTracks](https://en.wikipedia.org/wiki/MyTracks). The GPS data was stored in the GPX format locally on the Android device, and then shared to our server.
+## StreetDash - 2011 (Android)
 
+The second iteration of DASH! was StreetDash. It had a much better UI due to the fact we brought on an artist to help with UI. This app was never released due to our transition to iOS. 
 
-A core feature was using GPS To get the GPS based tracking off the ground, we used the open source Android app called [MyTracks](https://en.wikipedia.org/wiki/MyTracks). The GPS data was stored in the GPX format locally on the Android device, and then shared to our server.
+#### Mockups
+<p float="left">
+  <img src="./Dash/StreetDash/streetdash_flow.png" width="512" />
+</p>
 
- A new iteration of DASH and had much better UI due bringing on an artist. (Screenshots).
+#### Designer screenshots
 
+WIP
+## BullDash, TorchDash, DemonDash - 2012 (iOS)
+
+WIP
+
+## TorchDash
+
+WIP
+
+## DemonDash
  
 
 
