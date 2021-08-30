@@ -53,11 +53,11 @@ The second iteration of DASH! was StreetDash. It had a much better UI due to the
 #### App screenshots
 
 <p float="left">
-  <img src="./Dash/StreetDash/AppStoreScreenshots/IMG_0076.png" width="128" />
-  <img src="./Dash/StreetDash/AppStoreScreenshots/IMG_0077.png" width="128" />
-  <img src="./Dash/StreetDash/AppStoreScreenshots/IMG_0079.png" width="128" />
-  <img src="./Dash/StreetDash/AppStoreScreenshots/IMG_0080.png" width="128" />
-  <img src="./Dash/StreetDash/AppStoreScreenshots/IMG_0095.png" width="128" />
+  <img src="./Dash/StreetDash/AppStoreScreenshots/IMG_0076.PNG" width="128" />
+  <img src="./Dash/StreetDash/AppStoreScreenshots/IMG_0077.PNG" width="128" />
+  <img src="./Dash/StreetDash/AppStoreScreenshots/IMG_0079.PNG" width="128" />
+  <img src="./Dash/StreetDash/AppStoreScreenshots/IMG_0080.PNG" width="128" />
+  <img src="./Dash/StreetDash/AppStoreScreenshots/IMG_0095.PNG" width="128" />
 </p> 
 
 ## BullDash, TorchDash, DemonDash - 2012 (iOS)
