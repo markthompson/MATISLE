@@ -60,15 +60,17 @@ The second iteration of DASH! was StreetDash. It had a much better UI due to the
   <img src="./Dash/StreetDash/AppStoreScreenshots/IMG_0095.PNG" width="128" />
 </p> 
 
-## BullDash, TorchDash, DemonDash - 2012 (iOS)
+## Dash 2012 titles (iOS)
+The summer of 2012 was unique because the running of the bulls in Pamplona, Spain coincided with the 2012 Summer Olympics. We tried to capitalize on this by releasing BullDash, and then, TorchDash. TorchDash's artwork inspiration was the classic Greek Olympics. DemonDash was a zombie/demon inspired app, released around Halloween 2012. 
+
+### BullDash - 2012 (iOS)
+WIP
+
+### TorchDash -2012 (iOS)
 
 WIP
 
-## TorchDash
-
-WIP
-
-## DemonDash
+### DemonDash - 2012 (iOS)
  
 WIP
 
