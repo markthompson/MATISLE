@@ -76,7 +76,7 @@ A co-founder left for greener pastures, and I took over backend development. I i
 
 <p float="left">
   <img src="./Dash/BullDash/Screenshots/IMG_0174.PNG" width="128" />
-  <img src="./Dash/BullDash/Screenshots/tutorial.PNG" width="128" />
+  <img src="./Dash/BullDash/Screenshots/tutorial.png" width="128" />
   <img src="./Dash/BullDash/Screenshots/photo_9.PNG" width="128" />
   <img src="./Dash/BullDash/Screenshots/IMG_0178.PNG" width="128" />
   <img src="./Dash/BullDash/Screenshots/IMG_0193.PNG" width="128" />
