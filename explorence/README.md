@@ -61,16 +61,36 @@ The second iteration of DASH! was StreetDash. It had a much better UI due to the
 </p> 
 
 ## Dash 2012 titles (iOS)
-The summer of 2012 was unique because the running of the bulls in Pamplona, Spain coincided with the 2012 Summer Olympics. We tried to capitalize on this by releasing BullDash, and then, TorchDash. TorchDash's artwork inspiration was the classic Greek Olympics. DemonDash was a zombie/demon inspired app, released around Halloween 2012. 
+The summer of 2012 was unique because the Running of the Bulls in Pamplona, Spain coincided with the 2012 Summer Olympics. We tried to capitalize on this by releasing BullDash, and then TorchDash. 
+
+A co-founder left for greener pastures, and I took over backend development. I inherited a code base built on Groovy on Grails, backed by MySQL, sending XML over the wire, deployed to Elastic Beanstalk on AWS. (I had no idea what I was doing :). The GPS track data recorded on a user's Android or iOS device was shared over the wire in the [GPX](https://en.wikipedia.org/wiki/GPS_Exchange_Format) format. I decided to move the our API to a cool-kid format called JSON, but let the GPX implementation remain, because refactoring that out of the database did not make sense. Also, the backend was not architected with multitenancy in mind, so I just cloned the code base to support each game (lesson learned). 
 
 ### BullDash - 2012 (iOS)
-WIP
+#### Mockup and flow
+
+<p float="left">
+  <img src="./Dash/BullDash/mockups/bulldash_flow.png" width="512" />
+</p>
+
+#### App screenshots
+
+<p float="left">
+  <img src="./Dash/BullDash/Screenshots/IMG_0174.PNG" width="128" />
+  <img src="./Dash/BullDash/Screenshots/tutorial.PNG" width="128" />
+  <img src="./Dash/BullDash/Screenshots/photo_9.PNG" width="128" />
+  <img src="./Dash/BullDash/Screenshots/IMG_0178.PNG" width="128" />
+  <img src="./Dash/BullDash/Screenshots/IMG_0193.PNG" width="128" />
+  <img src="./Dash/BullDash/Screenshots/IMG_0179.PNG" width="128" />
+  <img src="./Dash/BullDash/Screenshots/IMG_0192.PNG" width="128" />
+  <img src="./Dash/BullDash/Screenshots/career.PNG" width="128" />
+</p> 
 
 ### TorchDash -2012 (iOS)
+
+TorchDash's artistic inspiration was the classic Greek. 
 
 WIP
 
 ### DemonDash - 2012 (iOS)
- 
-WIP
 
+DemonDash was a zombie/demon inspired app, released around Halloween 2012. 
