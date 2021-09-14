@@ -97,10 +97,29 @@ At that time, I had no idea that this sort of architecture existed.  The follwin
 
 ### TorchDash -2012 (iOS)
 
-TorchDash's artistic inspiration was the classic Greek. 
+TorchDash was released to coincide with the 2012 Summer Olympics and the artistic inspiration was classic Greek. 
 
-WIP
+<p float="left">
+  <img src="./Dash/BullDash/mockups/bulldash_flow.png" width="512" />
+</p>
+
+#### App screenshots
+
+<p float="left">
+  <img src="./Dash/BullDash/Screenshots/IMG_0174.PNG" width="128" />
+  <img src="./Dash/BullDash/Screenshots/tutorial.png" width="128" />
+  <img src="./Dash/BullDash/Screenshots/photo_9.PNG" width="128" />
+  <img src="./Dash/BullDash/Screenshots/IMG_0178.PNG" width="128" />
+  <img src="./Dash/BullDash/Screenshots/IMG_0193.PNG" width="128" />
+  <img src="./Dash/BullDash/Screenshots/IMG_0179.PNG" width="128" />
+  <img src="./Dash/BullDash/Screenshots/IMG_0192.PNG" width="128" />
+  <img src="./Dash/BullDash/Screenshots/career.PNG" width="128" />
+</p> 
 
 ### DemonDash - 2012 (iOS)
 
 DemonDash was a zombie/demon inspired app, released around Halloween 2012. 
+
+## Critters Inc.
+
+WIP
