@@ -16,7 +16,7 @@ We started with Android early on (2011) because we believed it was gonna breakou
 
 ## DASH! - 2010 (Android)
 
-DASH! on Android was the starting point for Explorence's GPS-based games, and was the first iteration of the Dash series of titles.  If the UI looks bad it's because I made it, and we didn't have a designer yet :) Also, most Android apps looked bad compared to iOS apps at this time. and can be seen here: [DASH! demo with the Scobelizer](https://www.youtube.com/watch?v=3-mdcn_YM6U) 
+DASH! on Android was the starting point for Explorence's GPS-based games, and was the first iteration of the Dash series of titles.  If the UI looks bad it's because I made it, and we didn't have a designer yet :) Also, most Android apps looked bad compared to iOS apps at this time. [DASH! demo with the Scobelizer](https://www.youtube.com/watch?v=3-mdcn_YM6U) .
 
 #### Screencaps
 
@@ -63,7 +63,17 @@ The second iteration of DASH! was StreetDash. It had a much better UI due to the
 ## Dash 2012 titles (iOS)
 The summer of 2012 was unique because the Running of the Bulls in Pamplona, Spain coincided with the 2012 Summer Olympics. We tried to capitalize on this by releasing BullDash, and then TorchDash. 
 
-A co-founder left for greener pastures, and I took over backend development. I inherited a code base built on Groovy on Grails, backed by MySQL, sending XML over the wire, deployed to Elastic Beanstalk on AWS. (I had no idea what I was doing :). The GPS track data recorded on a user's Android or iOS device was shared over the wire in the [GPX](https://en.wikipedia.org/wiki/GPS_Exchange_Format) format. I decided to move the our API to a cool-kid format called JSON, but let the GPX implementation remain, because refactoring that out of the database did not make sense. Also, the backend was not architected with multitenancy in mind, so I just cloned the code base to support each game (lesson learned). 
+#### About our backend
+
+A co-founder left for greener pastures, and I took over backend development. I inherited a code base built on Groovy on Grails, backed by MySQL, sending XML over the wire, deployed to Elastic Beanstalk on AWS. NOTE: I had zero experience coding and deploying a web server. 
+<p>
+The GPS track data recorded on a user's Android or iOS device was shared over the wire in the [GPX format](https://en.wikipedia.org/wiki/GPS_Exchange_Format). I migrated our API to JSON, but let the GPX implementation remain, mostly because refactoring that out of the database did not make sense. 
+</p>
+
+<p>
+A final note on the backend. It was not architected with **multitenancy** in mind. 
+At that time, I had no idea that this sort of architecture existed.  The follwing three apps were supported by cloning the code base to support each game (lesson learned). 
+</p>
 
 ### BullDash - 2012 (iOS)
 #### Mockup and flow
