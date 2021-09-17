@@ -31,12 +31,11 @@ DASH! on Android was the starting point for Explorence's GPS-based games, and wa
 
 <p float="left">
   <img src="./links/scobelizer_screencaps/DASH_demo_01_homescreen.png" width="128" />
-  <img src="./links/scobelizer_screencaps/DASH_demo_02_challengedetails.png" width="128" /> 
-  <img src="./links/scobelizer_screencaps/DASH_demo_03_import.png" width="128" />
-    <img src="./links/scobelizer_screencaps/DASH_demo_04_gps.png" width="128" />
-    <img src="./links/scobelizer_screencaps/DASH_demo_05_start.png" width="128" />
-    <img src="./links/scobelizer_screencaps/DASH_demo_06_finish.png" width="128" />
-    <img src="./links/scobelizer_screencaps/DASH_demo_07_sharing.png" width="128" />
+  <img src="./links/scobelizer_screencaps/DASH_demo_01_homescreen.png" width="128" />
+  <img src="./links/scobelizer_screencaps/DASH_demo_01_homescreen.png" width="128" />
+  <img src="./links/scobelizer_screencaps/DASH_demo_01_homescreen.png" width="128" />
+  <img src="./links/scobelizer_screencaps/DASH_demo_01_homescreen.png" width="128" />
+  <img src="./links/scobelizer_screencaps/DASH_demo_01_homescreen.png" width="128" />
 </p>
 
 A core feature of DASH! was using GPS to create "challenges", and then allow the user to share a GPS track with friends. To get the GPS tracking off the ground, we pretty much hacked the open source Android project [MyTracks](https://en.wikipedia.org/wiki/MyTracks). The GPS data was stored in the GPX format locally on the Android device, and then shared to our server.
@@ -98,6 +97,7 @@ At that time, I had no idea that this sort of architecture existed.  The follwin
 ### TorchDash -2012 (iOS)
 
 TorchDash was released to coincide with the 2012 Summer Olympics and the artistic inspiration was classic Greek. 
+#### Mockup and flow
 
 <p float="left">
   <img src="./Dash/TorchDash/torchdash_flow.png" width="512" />
@@ -120,6 +120,20 @@ TorchDash was released to coincide with the 2012 Summer Olympics and the artisti
 ### DemonDash - 2012 (iOS)
 
 DemonDash was a zombie/demon inspired app, released around Halloween 2012. 
+
+#### Mockup and flow
+
+<p float="left">
+  <img src="./Dash/DemonDash/pumpkin_flow.jpg" width="512" />
+</p>
+#### App screenshots
+
+<p float="left">
+  <img src="./Dash/DemonDash/iphone_screenshots/iphone5_home.png" width="128" />
+  <img src="./Dash/DemonDash/iphone_screenshots/iphone5_mummies.png" width="128" />
+  <img src="./Dash/DemonDash/iphone_screenshots/iphone5_witches.png" width="128" />
+  <img src="./Dash/DemonDash/iphone_screenshots/iphone5_win.png" width="128" />
+</p> 
 
 ## Critters Inc.
 
